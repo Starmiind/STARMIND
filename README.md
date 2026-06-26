@@ -57,6 +57,10 @@ JavaScript
 Figma
 GitHub
 
+## 🎨 Protótipo no Figma
+
+https://www.figma.com/make/K86DoG5Dxklb9T5AQaoVdQ/Plataforma-de-Streaming-Educativo?t=tXltM78IysvjDkeG-1 
+
 ## 👥 Equipe de Desenvolvimento
 
 - GUILHERMY DE ALMEIDA PIRES FERREIRA
@@ -84,6 +88,10 @@ O desenvolvimento do STARMIND fundamenta-se nos conceitos de:
 ## 📄 Licença
 
 Este projeto foi desenvolvido exclusivamente para fins acadêmicos como requisito do Projeto Integrador do Centro Universitário do Planalto Central Apparecido dos Santos - UNICEPLAC.
+
+## 🌟 Site final
+
+https://starmind-16mm.onrender.com/ 
 
 
 
